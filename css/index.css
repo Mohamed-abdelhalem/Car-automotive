@@ -729,6 +729,11 @@ ul .links a:hover
     transition-timing-function: ease-in-out;
 }
 
+.car-content
+{
+  height: 700px;
+}
+
 .about .about-content .image
 {
   position: relative;
