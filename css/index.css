@@ -593,6 +593,11 @@ color: white;
     width: 90%;
  }
 
+ .car-content
+ {
+   height: 800px;
+ }
+
 }
 
 /*for tablet*/
@@ -727,11 +732,6 @@ ul .links a:hover
     font-size: 40px;
     transition: 0.3s;
     transition-timing-function: ease-in-out;
-}
-
-.car-content
-{
-  height: 700px;
 }
 
 .about .about-content .image
